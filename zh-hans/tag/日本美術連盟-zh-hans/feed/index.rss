@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>日本美術連盟 &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/zh-hans/tag/%e6%97%a5%e6%9c%ac%e7%be%8e%e8%a1%93%e9%80%a3%e7%9b%9f-zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com/zh-hans/</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Mon, 21 Dec 2020 23:15:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>日本美術連盟 &#8211; JCCD</title>
+	<link>https://jccd.com/zh-hans/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>中国最大コンテンツ展示会ChinaJoy2019に出展決定。『JCCD Studio』が率いる『日本美術連盟』は１０兆円の巨大中国コンテンツ市場へ挑戦。【メディア招待あり】</title>
+		<link>https://jccd.com/zh-hans/%e4%b8%ad%e5%9b%bd%e6%9c%80%e5%a4%a7%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e5%b1%95%e7%a4%ba%e4%bc%9achinajoy2019%e3%81%ab%e5%87%ba%e5%b1%95%e6%b1%ba%e5%ae%9a%e3%80%82%e3%80%8ejccd-studio/</link>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2019 03:27:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ChinaJoy]]></category>
+		<category><![CDATA[JCCD Studio]]></category>
+		<category><![CDATA[クールジャパン]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[コンテンツ]]></category>
+		<category><![CDATA[日本美術連盟]]></category>
+		<category><![CDATA[華和結]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e4%b8%ad%e5%9b%bd%e6%9c%80%e5%a4%a7%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e5%b1%95%e7%a4%ba%e4%bc%9achinajoy2019%e3%81%ab%e5%87%ba%e5%b1%95%e6%b1%ba%e5%ae%9a%e3%80%82%e3%80%8ejccd-studio/</guid>
+
+					<description><![CDATA[華和結ホールディングス 株式会社（本社：香港、日本オフィス：東京都中央区、CEO：王 沁）が企画・運営するコン [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

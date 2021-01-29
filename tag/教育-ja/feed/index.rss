@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>教育 &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/tag/%e6%95%99%e8%82%b2-ja/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Wed, 23 Dec 2020 07:22:58 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>教育 &#8211; JCCD</title>
+	<link>https://jccd.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>『JCCD Studio』が東京都主催『コンテンツ企業×異業種企業マッチング交流会』にて唯一の教育企業として参加決定</title>
+		<link>https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e6%9d%b1%e4%ba%ac%e9%83%bd%e4%b8%bb%e5%82%ac%e3%80%8e%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e6%a5%adx%e7%95%b0%e6%a5%ad%e7%a8%ae%e4%bc%81/</link>
+					<comments>https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e6%9d%b1%e4%ba%ac%e9%83%bd%e4%b8%bb%e5%82%ac%e3%80%8e%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e6%a5%adx%e7%95%b0%e6%a5%ad%e7%a8%ae%e4%bc%81/#respond</comments>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 14:58:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[JCCD Studio]]></category>
+		<category><![CDATA[Online出版]]></category>
+		<category><![CDATA[クールジャパン]]></category>
+		<category><![CDATA[コンテンツ]]></category>
+		<category><![CDATA[教育]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e6%9d%b1%e4%ba%ac%e9%83%bd%e4%b8%bb%e5%82%ac%e3%80%8e%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e6%a5%adx%e7%95%b0%e6%a5%ad%e7%a8%ae%e4%bc%81/</guid>
+
+					<description><![CDATA[華和結ホールディングス 株式会社（本社：香港、日本オフィス：東京秋葉原、CEO：王 沁）が企画・運営するコンテンツ商社『JCCD Studio』は、2018年11月7日（水）より開催される東京都主催『コンテンツ企業×異業 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e6%9d%b1%e4%ba%ac%e9%83%bd%e4%b8%bb%e5%82%ac%e3%80%8e%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e4%bc%81%e6%a5%adx%e7%95%b0%e6%a5%ad%e7%a8%ae%e4%bc%81/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

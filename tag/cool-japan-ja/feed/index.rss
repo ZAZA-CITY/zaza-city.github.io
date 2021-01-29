@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cool Japan &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/tag/cool-japan-ja/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Wed, 23 Dec 2020 07:23:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>Cool Japan &#8211; JCCD</title>
+	<link>https://jccd.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>【CEO登壇】「クールジャパンコンテンツの海外Online出版」について@アジア教育フォーラム</title>
+		<link>https://jccd.com/%e3%80%90ceo%e7%99%bb%e5%a3%87%e3%80%91%e3%80%8c%e3%82%af%e3%83%bc%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%ae%e6%b5%b7%e5%a4%96online%e5%87%ba/</link>
+					<comments>https://jccd.com/%e3%80%90ceo%e7%99%bb%e5%a3%87%e3%80%91%e3%80%8c%e3%82%af%e3%83%bc%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%ae%e6%b5%b7%e5%a4%96online%e5%87%ba/#respond</comments>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2018 01:19:49 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Cool Japan]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e3%80%90ceo%e7%99%bb%e5%a3%87%e3%80%91%e3%80%8c%e3%82%af%e3%83%bc%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%ae%e6%b5%b7%e5%a4%96online%e5%87%ba/</guid>
+
+					<description><![CDATA[The CEO Mr.Wang attended and had a speech about the “Cool Japan context global online publication” @Asia Educa [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jccd.com/%e3%80%90ceo%e7%99%bb%e5%a3%87%e3%80%91%e3%80%8c%e3%82%af%e3%83%bc%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%ae%e6%b5%b7%e5%a4%96online%e5%87%ba/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

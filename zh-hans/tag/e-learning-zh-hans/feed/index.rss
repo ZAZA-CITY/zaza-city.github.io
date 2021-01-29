@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>e-Learning &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/zh-hans/tag/e-learning-zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com/zh-hans/</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Wed, 23 Dec 2020 06:34:23 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>e-Learning &#8211; JCCD</title>
+	<link>https://jccd.com/zh-hans/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>『JCCD Studio』が『東洋美術学校』とグローバルOnline出版業務を戦略提携、クールジャパン教育コンテンツを世界へ発信</title>
+		<link>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e6%9d%b1%e6%b4%8b%e7%be%8e%e8%a1%93%e5%ad%a6%e6%a0%a1%e3%80%8f%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%abonline%e5%87%ba%e7%89%88%e6%a5%ad/</link>
+					<comments>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e6%9d%b1%e6%b4%8b%e7%be%8e%e8%a1%93%e5%ad%a6%e6%a0%a1%e3%80%8f%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%abonline%e5%87%ba%e7%89%88%e6%a5%ad/#respond</comments>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Thu, 31 May 2018 03:44:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[e-Learning]]></category>
+		<category><![CDATA[JCCD Studio]]></category>
+		<category><![CDATA[イラスト]]></category>
+		<category><![CDATA[クールジャパン]]></category>
+		<category><![CDATA[グローバル]]></category>
+		<category><![CDATA[コンテンツ]]></category>
+		<category><![CDATA[東洋美術学校]]></category>
+		<category><![CDATA[華和結]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e6%9d%b1%e6%b4%8b%e7%be%8e%e8%a1%93%e5%ad%a6%e6%a0%a1%e3%80%8f%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%abonline%e5%87%ba%e7%89%88%e6%a5%ad/</guid>
+
+					<description><![CDATA[華和結ホールディングス 株式会社（本社：香港、日本オフィス：東京秋葉原、CEO：王 沁）が企画・運営するコンテ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e6%9d%b1%e6%b4%8b%e7%be%8e%e8%a1%93%e5%ad%a6%e6%a0%a1%e3%80%8f%e3%81%a8%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%abonline%e5%87%ba%e7%89%88%e6%a5%ad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

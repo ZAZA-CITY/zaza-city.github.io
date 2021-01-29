@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>知的財産 &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/zh-hans/tag/%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3-zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com/zh-hans/</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Wed, 23 Dec 2020 06:33:15 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>知的財産 &#8211; JCCD</title>
+	<link>https://jccd.com/zh-hans/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>『JCCD Studio』が『アリババ』とIP（知的財産）ビジネスを戦略提携、AI人工知能を駆使してコンテンツビジネスにイノベーションを</title>
+		<link>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e3%82%a2%e3%83%aa%e3%83%90%e3%83%90%e3%80%8f%e3%81%a8ip%ef%bc%88%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3%ef%bc%89%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9/</link>
+					<comments>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e3%82%a2%e3%83%aa%e3%83%90%e3%83%90%e3%80%8f%e3%81%a8ip%ef%bc%88%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3%ef%bc%89%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9/#respond</comments>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Sat, 30 Sep 2017 09:34:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alifish]]></category>
+		<category><![CDATA[IP]]></category>
+		<category><![CDATA[アリババ]]></category>
+		<category><![CDATA[コンテンツ]]></category>
+		<category><![CDATA[人工知能]]></category>
+		<category><![CDATA[戦略提携]]></category>
+		<category><![CDATA[知的財産]]></category>
+		<category><![CDATA[華和結]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e3%82%a2%e3%83%aa%e3%83%90%e3%83%90%e3%80%8f%e3%81%a8ip%ef%bc%88%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3%ef%bc%89%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9/</guid>
+
+					<description><![CDATA[華和結ホールディングス 株式会社（本社：香港、日本オフィス：東京秋葉原、CEO：王 沁）が企画・運営する『JC [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jccd.com/zh-hans/%e3%80%8ejccd-studio%e3%80%8f%e3%81%8c%e3%80%8e%e3%82%a2%e3%83%aa%e3%83%90%e3%83%90%e3%80%8f%e3%81%a8ip%ef%bc%88%e7%9f%a5%e7%9a%84%e8%b2%a1%e7%94%a3%ef%bc%89%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

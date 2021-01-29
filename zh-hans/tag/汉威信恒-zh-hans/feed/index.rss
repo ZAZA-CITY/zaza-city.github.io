@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>汉威信恒 &#8211; JCCD</title>
+	<atom:link href="https://jccd.com/zh-hans/tag/%e6%b1%89%e5%a8%81%e4%bf%a1%e6%81%92-zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd.com/zh-hans/</link>
+	<description>STUDIO・CAMP・CAPITAL</description>
+	<lastBuildDate>Mon, 21 Dec 2020 23:15:10 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://jccd.com/wp-content/uploads/2020/11/cropped-JCCD_S_120x-32x32.png</url>
+	<title>汉威信恒 &#8211; JCCD</title>
+	<link>https://jccd.com/zh-hans/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>アジア最大コンテンツ展示会ChinaJoy2020開催決定、日本からの遠隔出展や格安プランで中小企業を支援</title>
+		<link>https://jccd.com/zh-hans/%e3%82%a2%e3%82%b8%e3%82%a2%e6%9c%80%e5%a4%a7%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e5%b1%95%e7%a4%ba%e4%bc%9achinajoy2020%e9%96%8b%e5%82%ac%e6%b1%ba%e5%ae%9a%e3%80%81%e6%97%a5%e6%9c%ac/</link>
+		
+		<dc:creator><![CDATA[lunzi]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 16:46:31 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ChinaJoy]]></category>
+		<category><![CDATA[JCCD Studio]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[コンテンツ]]></category>
+		<category><![CDATA[汉威信恒]]></category>
+		<category><![CDATA[華和結]]></category>
+		<category><![CDATA[遠隔]]></category>
+		<guid isPermaLink="false">https://jccd.com/%e3%82%a2%e3%82%b8%e3%82%a2%e6%9c%80%e5%a4%a7%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e5%b1%95%e7%a4%ba%e4%bc%9achinajoy2020%e9%96%8b%e5%82%ac%e6%b1%ba%e5%ae%9a%e3%80%81%e6%97%a5%e6%9c%ac/</guid>
+
+					<description><![CDATA[華和結ホールディングス 株式会社（本社：香港、日本オフィス：東京都中央区、CEO：王 沁）が企画・運営するコン [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
